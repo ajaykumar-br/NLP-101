@@ -36,7 +36,7 @@ The notebook utilizes the 'SMS Spam Collection' dataset for demonstrating text c
 - **Application:** This dataset is used in the notebook for implementing and comparing different NLP techniques like Bag of Words, TF-IDF, and Word2Vec.
 
 ## Dataset Usage in the Notebook:
-- In the section on implementing BOW and TFIDF, the dataset is employed to classify messages as spam or ham.
-- The dataset provides a real-world application scenario for the NLP techniques, allowing for an evaluation of their effectiveness in a practical task.
+- The 'SMS Spam Collection' dataset is utilized in both the "Implementing BOW and TFIDF on Spam Dataset" and "Word2Vec Understanding and Implementation" sections, serving as a key resource for practical text classification tasks.
+- It provides a real-world application context for exploring various NLP techniques, including BOW, TF-IDF, and Word2Vec, demonstrating their effectiveness in classifying messages as spam or ham.
 
 The dataset can be accessed from the following link: [UCI Machine Learning Repository: SMS Spam Collection Dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection).
